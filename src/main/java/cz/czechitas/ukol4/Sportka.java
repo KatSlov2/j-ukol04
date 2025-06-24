@@ -62,8 +62,8 @@ public class Sportka {
 //        osudi.add(48);
 //        osudi.add(49);
 
-        for (int i = 0; i < 49; i ++){
-            osudi.add(i);
+        for (int i = 0; i < 49; i++){
+            osudi.add(i+1);
         }
     }
 
